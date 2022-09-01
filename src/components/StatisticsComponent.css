@@ -1,0 +1,26 @@
+.statistics-item {
+    background-color: #fdfd52;
+    border: solid 2px white;
+    color: #002053;
+    border-radius: 10px;
+}
+
+.statistics-header {
+    color: #002053;
+    font-weight: 500;
+}
+
+.statistics-number {
+    font-size: 2.5rem;
+}
+
+.statistics-description {
+    font-weight: 500;
+    font-size: 1.3rem;
+}
+
+.measure {
+    font-size: 1.5rem;
+    font-weight: 500;
+
+}

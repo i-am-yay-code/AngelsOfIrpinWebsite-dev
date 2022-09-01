@@ -1,0 +1,28 @@
+.volunteer-row {
+    background-color: #0071db;
+    color: rgb(248, 239, 186);
+    font-size: 1.3rem;
+    border-radius: 20px;
+}
+
+.volunteer-span {}
+
+.volunteer-idea {
+    color: yellow;
+    font-weight: bold;
+    font-size: 1.4rem;
+}
+
+.volunteer-header {
+    font-weight: 500;
+}
+
+.volonteer-button {
+    background-color: #ffba08;
+    transition: background-color .15s ease-in-out
+}
+
+.volonteer-button:hover {
+    background-color: #e7a600;
+    border: none;
+}

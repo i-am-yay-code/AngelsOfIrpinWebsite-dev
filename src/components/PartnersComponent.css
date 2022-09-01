@@ -1,0 +1,18 @@
+.partners-logo {
+    transition: transform .15s ease-in-out;
+}
+
+.partners-logo:hover {
+    transform: scale(1.1);
+}
+
+.partners-link {
+    width: min-content;
+}
+
+.partners-header {
+    font-size: 2rem;
+    color: #002053;
+    background-color: #fdfd52;
+    border-radius: 20px;
+}
